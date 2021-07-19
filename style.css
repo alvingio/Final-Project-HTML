@@ -90,7 +90,8 @@ body, html {height: 100%}
      grid-column-gap: 5px;
      grid-row-gap: 5px;
     }
-     .pv{width: 300px;}
+     .pv{width: 100%;
+	height: auto;}
 }
 
 
@@ -99,7 +100,8 @@ body, html {height: 100%}
       justify-content: space-evenly;
         grid-template-columns: auto;
 	    grid-row-gap: 10px;}
-    .pv{width: 250px;}
-    }
+    .pv{width: 100%;
+	height: auto;}
+}
 
 

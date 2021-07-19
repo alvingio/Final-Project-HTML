@@ -58,6 +58,11 @@ body, html {height: 100%}
 		opacity: 0.5;
 }
 
+.map {width: 50%;
+        }
+
+.PV {width: 50%;
+        }
 
 .copyright {
     height: 50px;
@@ -92,11 +97,7 @@ body, html {height: 100%}
       justify-content: space-evenly;
         grid-template-columns: auto;
         grid-row-gap: 10px;
-    .pv{width: 60%;}
+    .pv{width: 250px;}
     }
 
-.map {width: 50%;
-        }
 
-.PV {width: 50%;
-        }

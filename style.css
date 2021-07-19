@@ -89,11 +89,7 @@ clear: both;}
      grid-template-columns: 50% 50%;
      grid-template-rows: repeat(2, auto);
      grid-column-gap: 5px;
-     grid-row-gap: 5px;
-    }
-     .pv{width: 50%;
-	height: auto;
-	align: center;}
+     grid-row-gap: 5px;}
 }
 
 
@@ -102,9 +98,6 @@ clear: both;}
       justify-content: space-evenly;
         grid-template-columns: auto;
 	    grid-row-gap: 10px;}
-    .pv{width: 30%;
-	height: auto;
-	align: center;}
 }
 
 

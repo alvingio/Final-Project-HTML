@@ -92,7 +92,7 @@ body, html {height: 100%}
       justify-content: space-evenly;
         grid-template-columns: auto;
         grid-row-gap: 10px;
-    .pv{ width: 350px;}
+    .pv{width: 60%;}
     }
 
 .map {width: 50%;

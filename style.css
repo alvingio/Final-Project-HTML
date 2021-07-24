@@ -102,9 +102,6 @@ body, html {height: 100%}
 .PV {width: 50%;
         }
 
-@keyframes covidkeyinfo {
-    from {color: white;}
-    to {color: red;}
 
 .keyinfo {
   animation-name: covidkeyinfo;  
@@ -112,3 +109,9 @@ body, html {height: 100%}
   animation-iteration-count: infinite;
   animation-timing-function: ease-out;
 }
+
+
+@keyframes covidkeyinfo {
+    0% {color: white;}
+    100% {color: red;}
+	}

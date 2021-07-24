@@ -106,7 +106,7 @@ body, html {height: 100%}
     from {color: white;}
     to {color: red;}
 
-h2 {
+.h2 {
   animation-name: covid;  
   animation-duration: 2s;
   animation-iteration-count: infinite;

@@ -102,12 +102,12 @@ body, html {height: 100%}
 .PV {width: 50%;
         }
 
-@keyframes covid {
+@keyframes covidkeyinfo {
     from {color: white;}
     to {color: red;}
 
-.h2 {
-  animation-name: covid;  
+.keyinfo {
+  animation-name: covidkeyinfo;  
   animation-duration: 2s;
   animation-iteration-count: infinite;
   animation-timing-function: ease-out;

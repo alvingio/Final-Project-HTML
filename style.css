@@ -35,6 +35,7 @@ body, html {height: 100%}
   text-align: center;
   background-repeat: repeat;
   background-attachment: fixed;
+  filter: opacity(70%);
 }
 
 .maintitle {padding-top: 150px}
